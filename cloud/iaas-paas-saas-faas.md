@@ -33,6 +33,8 @@ storage.
 
 ### Software as a Service
 
+Cloud provider give you a ready to use software, you only need to take care of data and accounts
+
 ##### Conclude
 
 You’ll always be responsible for:
